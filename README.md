@@ -15,8 +15,8 @@
   <a href="https://instagram.com/lee._.ljh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
-    <img src="https://github.com/solved-ac/unofficial-badge/raw/main/assets/solvedac_badge.svg" alt="Solved.ac Profile" height="30" />
+  <a href="https://solved.ac/profile/ghksdl0321" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/PKJ415/solvedac-badge/main/assets/solvedac.svg" alt="Solved.ac Profile" height="30" />
   </a>
 </p>
 
