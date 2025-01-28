@@ -12,12 +12,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://instagram.com/lee._.ljh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://solved.ac/profile/ghksdl0321" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/PKJ415/solvedac-badge/main/assets/solvedac.svg" alt="Solved.ac Profile" height="30" />
-  </a>
+  <a href="https://instagram.com/lee._.ljh" target="_blank">Instagram</a> | 
+  <a href="https://solved.ac/profile/ghksdl0321" target="_blank">Solved.ac Profile</a>
 </p>
 
 ---
